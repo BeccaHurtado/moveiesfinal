@@ -21,6 +21,6 @@ https://cwmasters.github.io/moveiesfinal/
 
 ## Contribution:
 * **Kiri Anthony:** JavaScript - Implementing the logic for the back end and TMDB (The Movie DB) API to the project.
-* **Becca Hurtado:** HTML/CSS/Javascript - Initial HTML body/background and title with styling and implementation of Bored API to the project.
+* **Becca Hurtado:** HTML/CSS/Javascript - Initial HTML body/background and title with styling and implementation of Bored API to the project. Worked on the TMDB api to show data on website.
 * **Chris Masters:** HTML/CSS/Tailwind - Design of the page and implementation of Tailwind.
 
